@@ -1,0 +1,81 @@
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form1.resources
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form2.resources
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form3.resources
+C:\Users\Mikko\Desktop\Koulu\Savonia\Ohjelmointi 2\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form4.resources
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form1.resources
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form2.resources
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form3.resources
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form4.resources
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\Mikko\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form1.resources
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form2.resources
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form3.resources
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form4.resources
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.Cache
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\omistaja\Desktop\Lopputyö\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojResolveAssemblyReference.cache
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form2.resources
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form3.resources
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form4.resources
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form6.resources
+C:\Users\Mikko\Desktop\Lopputyö1.5\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form1.resources
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form2.resources
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form1.resources
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form4.resources
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form6.resources
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form3.resources
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\Mikko\Desktop\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form2.resources
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form1.resources
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form4.resources
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form6.resources
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Form3.resources
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\Mikko\Documents\Koulu\Savonia\Ohj2_2019\Lopputyö\Lopputyö2.0\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
